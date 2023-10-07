@@ -1,7 +1,11 @@
-## Hi there 👋
+# Hi there 👋
+
+> An Op-ed is a type of article that expresses someone's opinion on a particular topic.
+> They are often written by experts in their field or people who have personal experience with the subject matter.
+
+- [wikiwand.com/en/Op-ed](https://www.wikiwand.com/en/Op-ed)
 
 <!--
-
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
